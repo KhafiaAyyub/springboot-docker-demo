@@ -42,6 +42,12 @@ target/sb_docker_app.jar
 ---
 
 ## 🐳 Step 2 — Dockerfile Used
+```
+FROM eclipse-temurin:17-jdk
+COPY target/sb_docker_app.jar /usr/app/
+WORKDIR /usr/app
+ENTRYPOINT ["java", "-jar", "sb_docker_app.jar"]
+```
 
 ### 🔍 Explanation
 - `FROM` → downloads Java 17 image  
