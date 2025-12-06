@@ -63,6 +63,8 @@ docker build -t sbapp .
 
 docker run -p 8080:8080 sbapp
 
+---
+
 ## ▶️ Step 5 — Application will run  
 
 http://localhost:8080
