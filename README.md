@@ -73,7 +73,7 @@ Run this inside the project root:
 
 ## ▶️ Step 5 — Application will run  
 
-http://localhost:8080
+` http://localhost:8080 `
 
 ---
 
