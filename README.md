@@ -61,13 +61,13 @@ ENTRYPOINT ["java", "-jar", "sb_docker_app.jar"]
 
 Run this inside the project root:
 
-docker build -t sbapp .
+`docker build -t sbapp . `
 
 ---
 
 ## ▶️ Step 4 — Run Docker Container
 
-docker run -p 8080:8080 sbapp
+`docker run -p 8080:8080 sbapp`
 
 ---
 
