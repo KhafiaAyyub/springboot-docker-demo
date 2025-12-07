@@ -76,7 +76,6 @@ Run this inside the project root:
 ` http://localhost:8080 `
 
 ---
----
 
 ## 🔥 Docker Commands Cheat Sheet
 
