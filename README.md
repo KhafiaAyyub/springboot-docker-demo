@@ -80,6 +80,7 @@ Run this inside the project root:
 ## 🔥 Docker Commands Cheat Sheet
 
 ### 🏗️ Image Commands
+
 | Command | Description |
 |--------|-------------|
 | `docker images` | List all images |
@@ -90,6 +91,7 @@ Run this inside the project root:
 ---
 
 ### 🚀 Container Commands
+
 | Command | Description |
 |--------|-------------|
 | `docker ps` | List running containers |
@@ -103,6 +105,7 @@ Run this inside the project root:
 ---
 
 ### 📦 Logs & Debugging
+
 | Command | Description |
 |--------|-------------|
 | `docker logs <container>` | Show logs of container |
@@ -112,6 +115,7 @@ Run this inside the project root:
 ---
 
 ### 🧹 Cleanup Commands
+
 | Command | Description |
 |--------|-------------|
 | `docker system prune` | Remove unused data |
@@ -120,7 +124,8 @@ Run this inside the project root:
 
 ---
 
-### 🏛️ Docker Compose (if you learn later)
+### 🏛️ Docker Compose 
+
 | Command | Description |
 |--------|-------------|
 | `docker-compose up -d` | Start services |
